@@ -40,4 +40,5 @@ getwd()
 
 #From the below commands, you can directly run our app.
 #library(shiny)
-#runGitHub(repo="UPOSApp",username = "swapnilvermani")
+#runGitHub(repo="Shiny-R-UPOS",username = "AkankshaUtreja")
+
